@@ -5,13 +5,6 @@
 И вот моя первая работа 
 >https://stayer1974.github.io/Deco-Fire/
 ***
-Знания черпаю из видео-уроков этих признанных гуру:
->Ссылка на канал __Исмаил Усеинов__: https://www.youtube.com/@ITDoctor 
->Ссылка на канал __Александр Ламков__: https://www.youtube.com/@AleksanderLamkov
->Ссылка на канал __Анна Блок__: https://www.youtube.com/@annblok_webdev
->Ссылка на канал __Юрий Ключевский__: https://www.youtube.com/@WebCademy
->Ссылка на канал __Вадим Прокопчук__: https://www.youtube.com/@vadymprokopchuk
-***
 В ближайших планах:
 * углубиться в JS
 * освоить препроцессоры
